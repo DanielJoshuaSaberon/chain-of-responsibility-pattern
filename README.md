@@ -26,4 +26,4 @@ Develop an automated waste management system that uses a **Chain of Responsibili
 - Ensure that waste containers are correctly identified and disposed of by the appropriate waste collector in the chain.
 
 ## UML DIAGRAM
-![Blank diagram](https://github.com/user-attachments/assets/d69ac144-6cf1-42fc-b79e-5fba93b86d72)
+![Blank diagram (1)](https://github.com/user-attachments/assets/8f72bf70-689c-4a8c-ab75-cb00caae477e)
